@@ -14,7 +14,7 @@ public class LambdaExpressionExample2 {
         
         //with lambda  
 		Drawablelamda d2=()->{  
-            System.out.println("Drawing using Lamba example:::"+width);  
+            System.out.println("Drawing using Lamba examplewwwww:::"+width);  
         };  
         d2.draw(); 
 
